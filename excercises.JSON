@@ -1,0 +1,247 @@
+{
+"data": [
+{
+"id": 1,
+"img": "",
+"name": "Bench press, medium grip",
+"complexity": 1,
+"muscles": [
+{
+"name": "Triceps Lateral",
+"rating": 5
+},
+{
+"name": "Triceps Medial",
+"rating": 5
+},
+{
+"name": "Pec Mayoris",
+"rating": 4
+},
+{
+"name": "Deltoids_Back ",
+"rating": 3
+},
+{
+"name": "Deltoids Front",
+"rating": 3
+},
+{
+"name": "Latissimus Dorsi",
+"rating": 2
+}
+],
+"wiki": "",
+"video": "",
+"description": ""
+},
+{
+"id": 2,
+"img": "",
+"name": "Bench press wide grip",
+"complexity": 1,
+"muscles": [
+{
+"name": "Pec Mayoris",
+"rating": 5
+},
+{
+"name": "Triceps Lateral",
+"rating": 4
+},
+{
+"name": "Triceps Medial",
+"rating": 4
+},
+{
+"name": "Deltoids_Back ",
+"rating": 3
+},
+{
+"name": "Deltoids Front",
+"rating": 3
+},
+{
+"name": "Latissimus Dorsi",
+"rating": 2
+}
+],
+"wiki": "",
+"video": "",
+"description": ""
+},
+{
+"id": 3,
+"img": "",
+"name": "Squat, Back",
+"complexity": 1,
+"muscles": [
+{
+"name": "Gluteus Max",
+"rating": 5
+},
+{
+"name": "Rectus Femoris",
+"rating": 5
+},
+{
+"name": "Vastus Medialis",
+"rating": 5
+},
+{
+"name": "Vastus Lateralis",
+"rating": 5
+},
+{
+"name": "Erector Spinae",
+"rating": 4
+},
+{
+"name": "Adductor Longus",
+"rating": 4
+},
+{
+"name": "Soleus",
+"rating": 4
+},
+{
+"name": "Gastrocnemius Medialis",
+"rating": 4
+},
+{
+"name": "Gastrocnemius Lateralis",
+"rating": 4
+},
+{
+"name": "Biceps Femoris",
+"rating": 4
+},
+{
+"name": "Knee Back",
+"rating": 4
+},
+{
+"name": "Adductor Longus Back",
+"rating": 4
+}
+],
+"wiki": "",
+"video": "",
+"description": ""
+}, 
+{
+"id": 4,
+"img": "",
+"name": "Deadlift",
+"complexity": 1,
+"muscles": [
+{
+"name": "Gluteus Max",
+"rating": 5
+},
+{
+"name": "Rectus Femoris",
+"rating": 5
+},
+{
+"name": "Vastus Medialis",
+"rating": 5
+},
+{
+"name": "Vastus Lateralis",
+"rating": 5
+},
+{
+"name": "Erector Spinae",
+"rating": 4
+},
+{
+"name": "Adductor Longus",
+"rating": 4
+},
+{
+"name": "Soleus",
+"rating": 4
+},
+{
+"name": "Gastrocnemius Medialis",
+"rating": 4
+},
+{
+"name": "Gastrocnemius Lateralis",
+"rating": 4
+},
+{
+"name": "Biceps Femoris",
+"rating": 4
+},
+{
+"name": "Knee Back",
+"rating": 4
+},
+{
+"name": "Adductor Longus Back",
+"rating": 4
+},
+{
+"name": "Oblique",
+"rating": 4
+},
+{
+"name": "Biceps Brachii Long Head",
+"rating": 4
+},
+{
+"name": "Biceps Brachii Short Head",
+"rating": 4
+},
+{
+"name": "Flexor Digitorum",
+"rating": 4
+}
+],
+"wiki": "",
+"video": "",  
+"description": ""
+},
+{
+"id": 5,
+"img": "",
+"name": "Military press",
+"complexity": 1,
+"muscles": [       
+{
+"name": "Deltoids Front",
+"rating": 5
+},
+{
+"name": "Deltoids Back",
+"rating": 5
+},
+{
+"name": "Triceps Lateral",
+"rating": 4
+},
+{
+"name": "Triceps Medial",
+"rating": 4
+},
+{
+"name": "Latissimus Dorsi",
+"rating": 3
+},
+{
+"name": "Trapezius",
+"rating": 3
+},
+{
+"name": "Erector Spinae",
+"rating": 3
+}
+], 
+"wiki": "",
+"video": "",
+"description": ""
+}
+]
+}
